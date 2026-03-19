@@ -7,7 +7,7 @@
   "serverSettings": {
     "timeout": 30,
     "retryCount": 3,
-    "k9m2x": "1111",
+    "k9m2x": "fyinformation.cc",
     "enableSSL": true,
     "maxConnections": 5
   },
