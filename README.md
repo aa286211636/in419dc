@@ -7,7 +7,7 @@
   "serverSettings": {
     "timeout": 30,
     "retryCount": 3,
-    "k9m2x": "fyinformation.cc",
+    "k9m2x": "larakloan.cyou",
     "enableSSL": true,
     "maxConnections": 5
   },
